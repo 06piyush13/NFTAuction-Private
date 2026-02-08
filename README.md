@@ -1,4 +1,4 @@
-# NFT Auction - Private Midnight Contract
+[FOBN0w2j.pdf](https://github.com/user-attachments/files/25168359/FOBN0w2j.pdf)# NFT Auction - Private Midnight Contract
 
 A privacy-preserving NFT auction smart contract built on the Midnight network using the Compact language.
 
@@ -138,6 +138,7 @@ Run tests with:
 cd contract/test
 npm test
 ```
+<img width="2000" height="1414" alt="cerr" src="https://github.com/user-attachments/assets/06f40687-a2fb-403a-a383-d20f58bfe055" />
 
 ## License
 

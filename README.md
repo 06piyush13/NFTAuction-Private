@@ -2,6 +2,9 @@
 
 A privacy-preserving NFT auction smart contract built on the Midnight network using the Compact language.
 
+<img width="935" height="152" alt="Screenshot from 2026-02-08 22-54-07" src="https://github.com/user-attachments/assets/839855ab-0ee2-4fe1-ac46-1ae2f26b0905" />
+
+
 ## Overview
 
 This is a zero-knowledge enabled NFT auction system that allows users to participate in sealed-bid auctions while maintaining complete privacy over their bids. The contract uses cryptographic commitments and zero-knowledge proofs to ensure bid privacy while maintaining auction integrity.

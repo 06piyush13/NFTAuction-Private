@@ -112,4 +112,6 @@ Our vision is to bring institutional-grade privacy to the NFT market. By using M
 - **Marketplace Integration**: Direct integration with Midnight NFT marketplaces.
 
 ---
-Built with ❤️ on
+Built with ❤️ on Midnight
+<img width="1600" height="1131" alt="image" src="https://github.com/user-attachments/assets/47f62c32-32ea-400e-9424-87fb7d92765d" />
+

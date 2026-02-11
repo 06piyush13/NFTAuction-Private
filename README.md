@@ -100,7 +100,8 @@ Our vision is to bring institutional-grade privacy to the NFT market. By using M
 
 *Figure 2: Lace Wallet connection interface.*
 
-<img width="1920" height="1080" alt="Screenshot from 2026-02-11 14-51-45" src="https://github.com/user-attachments/assets/05216019-886e-44f0-863b-1865e3fb4dc6" />
+<img width="1920" height="1080" alt="Screenshot from 2026-02-11 14-24-49" src="https://github.com/user-attachments/assets/75ee6a6a-f725-4a02-b9cf-84b667383487" />
+
 
 
 

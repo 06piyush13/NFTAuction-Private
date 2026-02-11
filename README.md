@@ -3,7 +3,7 @@
 A decentralized, privacy-preserving NFT auction platform built on the **Midnight Blockchain**. This project implements a secure sealed-bid (Vickrey-style) auction mechanism where bid amounts remain private until the reveal phase, leveraging Midnight's zero-knowledge capabilities.
 
 ## Demo Video
-<video controls src="docs/demo_screencast.webm" title="Midnight Auction Demo"></video>
+<video controls src="Midnight.mp4" title="Title"></video>
 *The demo covers: Midnight local network setup, Lace wallet funding, contract deployment, and end-to-end auction flow.*
 
 ## Project Description
